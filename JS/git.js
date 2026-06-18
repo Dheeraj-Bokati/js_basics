@@ -38,6 +38,7 @@
 //* git push origin <branch_name>  // git push origin main
 
 //? ignore
+<<<<<<< HEAD
 //* .gitignore file
 
 //? branching
@@ -51,3 +52,14 @@
 
 //? merge conflit
 //* this happen when two branches make changes on same file on same line
+=======
+// .gitignore file
+
+//hello
+//hello
+//hello
+//hello
+//hello
+//hello
+//hello
+>>>>>>> test_branch
