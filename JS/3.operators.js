@@ -33,3 +33,15 @@ console.log(b === c); // false
 
 //* logical op.
 //? && , || , !
+
+//! unary op
+//? increment   ++
+let x = 10;
+console.log(x++); // 10 , 11  (post increment)
+console.log(++x); // 11 , 12  (pre increment)
+
+//? decrement   --
+
+//* ternary op
+//?  ??
+
