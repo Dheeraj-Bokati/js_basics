@@ -38,4 +38,8 @@
 //* git push origin <branch_name>
 
 //? ignore
-// .gitignore file
+//* .gitignore file
+
+//? branching
+//* git branch 
+//* git branch <branch_name>  -> create new branch
