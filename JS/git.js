@@ -43,4 +43,8 @@
 //? branching
 //* git branch 
 //* git branch <branch_name>  -> create new branch
+//* git switch <branch_name>  -> switch between branches
+//* git switch -c <branch_name>  -> create & switch to new branch
 
+//? merge
+//* git merge <branch_name>
